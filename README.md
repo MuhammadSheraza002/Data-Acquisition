@@ -1,2 +1,3 @@
 # Data-Acquisition
-<img align="left" width="400" src="images/acq.PNG"  >
+<img style="width: 100%;" src="images/acq.PNG"  >
+
