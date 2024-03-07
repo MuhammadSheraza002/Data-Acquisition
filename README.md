@@ -1,7 +1,13 @@
 # Data-Acquisition
-<img style="float: right; width: 60%;" src="images/acq.PNG">
-
+<div style="float: left; width: 40%;">
+  
 Welcome to the repository for the Data Acquisition Course! This repository contains materials and resources for each lecture in the course.
+
+</div>
+
+<div style="float: right; width: 60%;">
+  <img style="width: 100%;" src="images/acq.PNG">
+</div>
 
 ## Lecture 1: Getting Yourself Unstuck
 
