@@ -1,5 +1,6 @@
 # Data-Acquisition
-<img style="align:right;" src="images/acq.PNG"  >
+<img style="float: right;" src="images/acq.PNG">
+
 
 Welcome to the repository for the Data Acquisition Course! This repository contains materials and resources for each lecture in the course.
 
