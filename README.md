@@ -1,12 +1,13 @@
 # Data-Acquisition
-<div style="float: left; width: 40%;">
-  
-Welcome to the repository for the Data Acquisition Course! This repository is curated and maintained by [Muhammad Sheraz], the creator of the course. Here, you will find a collection of materials and resources for each lecture.
 
-</div>
+<div style="overflow: auto;">
+  <div style="float: left; width: 50%;">
+    <p>Welcome to the repository for the Data Acquisition Course! This repository is curated and maintained by [Muhammad Sheraz], the creator of the course. Here, you will find a collection of materials and resources for each lecture.</p>
+  </div>
 
-<div style="float: right; width: 60%;">
-  <img style="width: 100%;" src="images/acq.PNG">
+  <div style="float: right; width: 50%;">
+    <img style="width: 100%;" src="images/acq.PNG">
+  </div>
 </div>
 
 ## Repository Overview:
@@ -100,4 +101,6 @@ Welcome to the repository for the Data Acquisition Course! This repository is cu
 
 ---
 
-Feel free to customize this template further based on your specific requirements, adding details about the course structure, prerequisites, and any additional information you think is necessary.
+
+### Happy learning
+
