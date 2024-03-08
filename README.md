@@ -1,13 +1,20 @@
 # Data-Acquisition
 <div style="float: left; width: 40%;">
   
-Welcome to the repository for the Data Acquisition Course! This repository contains materials and resources for each lecture in the course.
+Welcome to the repository for the Data Acquisition Course! This repository is curated and maintained by [Muhammad Sheraz], the creator of the course. Here, you will find a collection of materials and resources for each lecture.
 
 </div>
 
 <div style="float: right; width: 60%;">
   <img style="width: 100%;" src="images/acq.PNG">
 </div>
+
+## Repository Overview:
+
+- **Creator:** [Muhammad Sheraz]
+- **Purpose:** This repository serves as a centralized hub for the Data Acquisition Course, containing essential materials for each lecture.
+
+
 
 ## Lecture 1: Getting Yourself Unstuck
 
