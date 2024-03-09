@@ -2,10 +2,11 @@
 
 Welcome to the Comprehensive Data Acquisition Course Repository by Muhammad Sheraz. This repository is meticulously crafted to provide an extensive and advanced resource for mastering the intricacies of data acquisition. Our goal is to empower you with a profound understanding of data collection techniques, enabling you to navigate complex scenarios and excel in various applications.
 
-<p float="left">
-  <img src="images/acq.PNG" width="400" />
-  <img src="images/scrap.PNG" width="400" height="650" /> 
-</p>
+<div style="display: flex; flex-wrap: wrap;">
+  <img src="images/acq.PNG" alt="Acq Image" width="48%" style="margin-right: 2%;" />
+  <img src="images/scrap.PNG" alt="Scrap Image" width="48%" />
+</div>
+
 
 
 ## Lecture 1: Getting Yourself Unstuck
