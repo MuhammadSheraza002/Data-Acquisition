@@ -87,7 +87,7 @@ Welcome to the Comprehensive Data Acquisition Course Repository by Muhammad Sher
   - Saving Existing JSON Files to Disk
   - Converting Tabular DataFrames to JSON
 
-## Lecture 5: Web Scraping with BeautifulSoup
+## Lecture 6: Web Scraping with BeautifulSoup
 <img align="right" width="400" src="images/webscraping.png"  >
 
 
