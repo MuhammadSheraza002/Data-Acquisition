@@ -88,7 +88,7 @@ Welcome to the Comprehensive Data Acquisition Course Repository by Muhammad Sher
   - Converting Tabular DataFrames to JSON
 
 ## Lecture 5: Web Scraping with BeautifulSoup
-
+<img align="right" width="400" src="images/webscraping.png"  >
 - **Overview of BeautifulSoup**
   - What is BeautifulSoup and how it works?
   - Download and Install BeautifulSoup
