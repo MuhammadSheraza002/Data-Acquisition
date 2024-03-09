@@ -104,7 +104,7 @@ Welcome to the Comprehensive Data Acquisition Course Repository by Muhammad Sher
   - Using the `soup.find_all()` Method
   - Iterating Through the List returned by `soup.find_all()` Method
 
-- **Example 1: Scraping Information from a Single Web Page https://arifpucit.github.io/bss2/**
+- **Example 1: Scraping Information from a Single Web Page**
   - Extracting Book Titles/Authors
   - Extracting Book Prices
   - Extracting Book Availability (In-Stock)
@@ -113,11 +113,11 @@ Welcome to the Comprehensive Data Acquisition Course Repository by Muhammad Sher
   - Extracting Book Links
   - Saving data into CSV file on disk
 
-- **Example 1 (cont): Scraping Information from Multiple Web Pages https://arifpucit.github.io/bss2/**
+- **Example 1 (cont): Scraping Information from Multiple Web Pages**
   - Extracting Book Titles/Authors, Prices, Availability, Review Count, Star Ratings, and Links from multiple pages
   - Saving data into CSV file on disk
 
-- **Example 2: Scraping Information from Multiple Web Pages (Pagination) http://www.arifbutt.me/category/sp-with-linux/**
+- **Example 2: Scraping Information from Multiple Web Pages (Pagination)**
   - Extracting required information
   - The Concept of Pagination
   - How to extract information from Multiple Web Pages using Pagination?
