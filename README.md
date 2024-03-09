@@ -9,7 +9,7 @@ Welcome to the Comprehensive Data Acquisition Course Repository by Muhammad Sher
 
 
 
-## Lecture 1: Getting Yourself Unstuck
+# Lecture 1: Getting Yourself Unstuck
 
 - **Introduction**
 - **Being a Data Scientist Means Knowing How to Get Yourself Unstuck**
@@ -17,21 +17,21 @@ Welcome to the Comprehensive Data Acquisition Course Repository by Muhammad Sher
 
 ### Methods for Getting Unstuck
 
-1. **Method 1: Reading and Understanding Python Errors**
-2. **Method 2: Using the Built-in Python Documentation**
+- **Method 1: Reading and Understanding Python Errors**
+- **Method 2: Using the Built-in Python Documentation**
    - Using a Console Window in JupyterLab
    - How to Call Up and Read a Docstring
-3. **Method 3: Using Google and Other Search Engines**
+-. **Method 3: Using Google and Other Search Engines**
    - How to Avoid Toxicity in Online Communities
-4. **Method 4: Stack Overflow**
+- **Method 4: Stack Overflow**
    - How Stack Overflow Works
    - Asking a Question on Stack Overflow
-5. **Method 5: Using a Large-Language Model (a ChatBot) to Generate and Debug Code**
+- **Method 5: Using a Large-Language Model (a ChatBot) to Generate and Debug Code**
    - How to Access a ChatBot for Coding
    - Prompt Engineering for Generating New Code
    - Example: Data from the World Bank
    - Prompt Engineering for Debugging or Explaining Existing Code
-6. **Method 6: Interacting with the Global Community of Python Users**
+- **Method 6: Interacting with the Global Community of Python Users**
    - Python Slack and Discord
    - Live Chats With Python Users on Freenode
    - Python Mailing Lists and Newsgroups
@@ -65,31 +65,65 @@ Welcome to the Comprehensive Data Acquisition Course Repository by Muhammad Sher
 
 ## Lecture 3: Loading, Converting, and Writing JSON Files
 
-### The Structure of a JSON File
+- **The Structure of a JSON File**
+  - Introduction: Douglas Crockford’s JSON Saga
+  - Lists, Sets, and Dictionaries
+  - Nested Structures
+  - Metadata
+  - Missing Values and Different Data Types
 
-- **Introduction: Douglas Crockford’s JSON Saga**
-- **Lists, Sets, and Dictionaries**
-- **Nested Structures**
-- **Metadata**
-- **Missing Values and Different Data Types**
+- **Loading and Reading JSON Data in Python**
+  - Using the `requests.get()`, `json.loads()`, and `json.dumps()` Functions
+  - Searching Along the JSON Index Path
+  - Looping Across Records to Extract Datapoints
+  - Using `pd.read_json()` and `pd.json_normalize()` to Store JSON Data in a Data Frame
 
-### Loading and Reading JSON Data in Python
+- **Situations with JSON Data**
+  - Situation 1: No nesting, no metadata
+  - Situation 2: Nesting, but no metadata
+  - Situation 3: Metadata
 
-- **Using the `requests.get()`, `json.loads()`, and `json.dumps()` Functions**
-- **Searching Along the JSON Index Path**
-- **Looping Across Records to Extract Datapoints**
-- **Using `pd.read_json()` and `pd.json_normalize()` to Store JSON Data in a Data Frame**
+- **Saving JSON Files and Converting Data Frames to JSON**
+  - Saving Existing JSON Files to Disk
+  - Converting Tabular DataFrames to JSON
 
-### Situations with JSON Data
+## Lecture 5: Web Scraping with BeautifulSoup
 
-- **Situation 1: No nesting, no metadata**
-- **Situation 2: Nesting, but no metadata**
-- **Situation 3: Metadata**
+- **Overview of BeautifulSoup**
+  - What is BeautifulSoup and how it works?
+  - Download and Install BeautifulSoup
 
-### Saving JSON Files and Converting Data Frames to JSON
+- **Playing with BeautifulSoup**
+  - Reviewing the Books Scraping Website
+  - Fetching HTML Contents Using `requests` Library
+  - Creating the Soup Object using `BeautifulSoup` Library
+  - Accessing Attributes of `Soup` Object
+  - Using the `soup.find()` Method
+  - Using the `soup.find_all()` Method
+  - Iterating Through the List returned by `soup.find_all()` Method
 
-- **Saving Existing JSON Files to Disk**
-- **Converting Tabular DataFrames to JSON**
+- **Example 1: Scraping Information from a Single Web Page https://arifpucit.github.io/bss2/**
+  - Extracting Book Titles/Authors
+  - Extracting Book Prices
+  - Extracting Book Availability (In-Stock)
+  - Extracting Book Review Count
+  - Extracting Book Star Ratings
+  - Extracting Book Links
+  - Saving data into CSV file on disk
+
+- **Example 1 (cont): Scraping Information from Multiple Web Pages https://arifpucit.github.io/bss2/**
+  - Extracting Book Titles/Authors, Prices, Availability, Review Count, Star Ratings, and Links from multiple pages
+  - Saving data into CSV file on disk
+
+- **Example 2: Scraping Information from Multiple Web Pages (Pagination) http://www.arifbutt.me/category/sp-with-linux/**
+  - Extracting required information
+  - The Concept of Pagination
+  - How to extract information from Multiple Web Pages using Pagination?
+  - Saving data into CSV file on disk
+
+- **Limitations of BeautifulSoup**
+
+- **Some Coding Exercises**
 
 ---
 
