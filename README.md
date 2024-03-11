@@ -87,6 +87,19 @@ Welcome to the Data Acquisition Repository Managed by Muhammad Sheraz.This repos
   - Saving Existing JSON Files to Disk
   - Converting Tabular DataFrames to JSON
 
+
+## Lecture 4: Acquiring Data from APIs
+<img align="right" width="300" src="images/api.png"  >
+
+
+- What is an API?
+- Introduction: Understanding APIs for Data Transfer
+- Making API Requests in Python
+- Example: Weather API
+- API Status Codes
+- API Documentation
+- Reading API Documentation (Example: the NASA Image and Video Library)¶
+- Reasons to Use API
 ## Lecture 6: Web Scraping with BeautifulSoup
 <img align="right" width="300" src="images/icon3.PNG"  >
 
