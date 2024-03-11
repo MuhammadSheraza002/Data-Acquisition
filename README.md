@@ -127,6 +127,58 @@ Welcome to the Data Acquisition Repository Managed by Muhammad Sheraz.This repos
 
 - **Some Coding Exercises**
 
+
+## Lecture 7: Selenium for Web Scraping and Automation
+
+- **Overview of Selenium (Why, What and How)**
+  - Why use Selenium?
+  - What is Selenium? (Selenium Architecture)
+  - How to use Selenium?
+  - Download and Install Selenium
+  - Download Selenium WebDriver for your browser (Chrome, Safari, Firefox, Internet Explorer)
+  - Setting options of Chrome Driver (Headless mode)
+
+- **A Step-by-Step Hello World with Selenium**
+  - Create an instance of Browser
+  - Load a Web page in the browser window
+  - Access browser information
+  - Perform Different operations on the browser
+  - Create a new tab in the browser window and shift between tabs
+  - Close browser tab or close the entire session
+
+- **Example 1: Scraping a JavaScript Driven WebSite (https://arifpucit.github.io/bss2/js/)**
+  - What is JavaScript Driven Website?
+  - What happens when we use Requests and BeautifulSoup to scrape JS websites?
+  - Using Selenium and BeautifulSoup to scrape JS websites
+
+- **Example 2: Scraping Dynamic WebSites (https://arifpucit.github.io/bss2/login/)**
+  - Different Ways to Locate Web elements using Selenium
+  - Selenium `find_element()` and `find_elements()` methods
+  - Selenium Locators
+    - ID
+    - NAME
+    - TAG_NAME
+    - CLASS_NAME
+    - LINK_TEXT
+    - PARTIAL_LINK_TEXT
+    - CSS_SELECTOR
+    - XPATH
+  - Entering text in a Text Box on a Web Page
+  - Clicking a Button element on a web page
+  - Consolidated Script to Login and Scrape Books Data
+
+- **Example 3: Scraping Web Pages that Employ Infinite Scrolling**
+
+- **Example 4: Scraping Web Pages that Employ Pagination:**
+
+- **Example 5: Scraping Web Pages that use Pop-ups:**
+
+- **Bonus:**
+  - Email Scraped CSV file from Python
+
+
+
+
 ---
 
 
