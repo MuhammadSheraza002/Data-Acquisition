@@ -129,7 +129,7 @@ Welcome to the Data Acquisition Repository Managed by Muhammad Sheraz.This repos
 
 
 ## Lecture 7: Selenium for Web Scraping and Automation
-<img align="right" width="400" src="images/icon1.PNG">
+<img align="right" width="300" src="images/icon1.PNG">
 
 - **Overview of Selenium (Why, What and How)**
   - Why use Selenium?
