@@ -113,8 +113,9 @@ Welcome to the Data Acquisition Repository Managed by Muhammad Sheraz.This repos
 - **Overview of a Web Application Architecture**  
 - **The Anatomy of a Web Page**
 - **The Document Object Model**
-- **Fetching Web Page Contents using Python `urllib` Package**
-- **Fetching Web Page Contents using Python `Requests` Library**
+- **Fetching Web Page Contents**
+  - **using Python `urllib` Package**
+  - **using Python `Requests` Package**
 - **Example 1: Fetching, Reading and saving the HTML code of a Web page in a Text File**
 - **Example 2: Fetching, Reading and saving an Image from the Web Page in a Binary File**
   
