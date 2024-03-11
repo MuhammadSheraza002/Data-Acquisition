@@ -88,7 +88,7 @@ Welcome to the Data Acquisition Repository Managed by Muhammad Sheraz.This repos
   - Converting Tabular DataFrames to JSON
 
 ## Lecture 6: Web Scraping with BeautifulSoup
-<img align="right" width="400" src="images/webscraping.png"  >
+<img align="right" width="400" src="images/icon3.PNG"  >
 
 
 - **Overview of BeautifulSoup**
