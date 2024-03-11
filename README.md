@@ -92,18 +92,18 @@ Welcome to the Data Acquisition Repository Managed by Muhammad Sheraz.This repos
 <img align="right" width="400" src="images/api.png"  >
 
 
-- What is an API?
-- Introduction: Understanding APIs for Data Transfer
-- Making API Requests in Python
-- Example: Weather API
-- API Status Codes
-- API Documentation
-- Reading API Documentation (Example: the NASA Image and Video Library)¶
-- Reasons to Use API
+- **What is an API?**
+- **Introduction: Understanding APIs for Data Transfer**
+- **Making API Requests in Python**
+- **Example: Weather API**
+- **API Status Codes**
+- **API Documentation**
+- **Reading API Documentation (Example: the NASA Image and Video Library)**
+- **Reasons to Use API**
 
 
 ## Lecture 5: Overview-of-Web-Scraping
-<img align="right" width="300" src="images/webscraping.png"  >
+<img align="right" width="400" src="images/webscraping.png"  >
 
 
 - **What is Web Scraping?**
