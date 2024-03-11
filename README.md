@@ -89,7 +89,7 @@ Welcome to the Data Acquisition Repository Managed by Muhammad Sheraz.This repos
 
 
 ## Lecture 4: Acquiring Data from APIs
-<img align="right" width="300" src="images/api.png"  >
+<img align="right" width="400" src="images/api.png"  >
 
 
 - What is an API?
