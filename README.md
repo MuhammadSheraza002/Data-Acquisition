@@ -100,6 +100,24 @@ Welcome to the Data Acquisition Repository Managed by Muhammad Sheraz.This repos
 - API Documentation
 - Reading API Documentation (Example: the NASA Image and Video Library)¶
 - Reasons to Use API
+
+
+## Lecture 5: Overview-of-Web-Scraping
+<img align="right" width="300" src="images/webscraping.png"  >
+
+
+- **What is Web Scraping?**
+- **How Web Scraping Works?**
+- **Scrapy VS BeautifulSoup VS  Selenium**
+- **Is Web Scraping Legal?**
+- **Overview of a Web Application Architecture**  
+- **The Anatomy of a Web Page**
+- **The Document Object Model**
+- **Fetching Web Page Contents using Python `urllib` Package**
+- **Fetching Web Page Contents using Python `Requests` Library**
+- **Example 1: Fetching, Reading and saving the HTML code of a Web page in a Text File**
+- **Example 2: Fetching, Reading and saving an Image from the Web Page in a Binary File**
+  
 ## Lecture 6: Web Scraping with BeautifulSoup
 <img align="right" width="300" src="images/icon3.PNG"  >
 
