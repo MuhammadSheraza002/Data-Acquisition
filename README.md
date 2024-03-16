@@ -21,7 +21,7 @@ Welcome to the Data Acquisition Repository Managed by Muhammad Sheraz.This repos
 - **Method 2: Using the Built-in Python Documentation**
    - Using a Console Window in JupyterLab
    - How to Call Up and Read a Docstring
--. **Method 3: Using Google and Other Search Engines**
+- **Method 3: Using Google and Other Search Engines**
    - How to Avoid Toxicity in Online Communities
 - **Method 4: Stack Overflow**
    - How Stack Overflow Works
