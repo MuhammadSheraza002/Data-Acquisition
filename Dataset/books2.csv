@@ -1,10 +1,19 @@
-Title/Author,Price,Availability,Reviews,Links,Stars
-Operating System Concepts By Avi Silberschatz,Rs.2000, In stock,20,https://www.amazon.com/Operating-System-Concepts-Abridged-Companion/dp/1119456339,3
-UNIX The Textbook By Syed Mansoor Sarwar,Rs.5000, In stock,100,https://www.google.com/search?q=Unix+the+textbook+by+mansoor&rlz=1C1CHBD_enPK987PK987&oq=unix+the+textbook+by+mansoor&aqs=chrome.0.69i59j69i57j69i59j69i60l5.4419j0j7&sourceid=chrome&ie=UTF-8,5
-Taxonomy of IDS By Arif Butt,Rs.6900, Not in stock,20,https://www.amazon.in/Taxonomy-Ids-Arif-Butt/dp/3639294092,4
-Understanding operating systems By Ida Flynn,Rs.2700, Not in stock,60,https://www.amazon.com/Understanding-Operating-Systems-Ann-McHoes/dp/1305674251,2
-Computer Systems  By Randal E. Bryant ,Rs.1700, In stock,25,https://www.goodreads.com/book/show/829182.Computer_Systems,2
-Linux bible  Book By Christopher Negus,Rs.1800, Not in stock,21,https://www.amazon.com/Linux-Bible-Christopher-Negus/dp/111821854X,1
-Advanced Programming in the UNIX Environment  By W. Stevans,Rs.6000, In stock,40,https://www.amazon.com/dp/0321637739?tag=uuid10-20,1
-Operating Systems: A Design-oriented Approach By Charles Patrick Crowley,Rs.1000, In stock,90,https://www.amazon.com/s?k=Operating+Systems%3A+A+Design-oriented+Approach&i=stripbooks-intl-ship&ref=nb_sb_noss,3
-Hands-On Network Programming with C  By Lewis Van Winkle,Rs.1800, In stock,70,https://www.amazon.com/Hands-Network-Programming-programming-optimized/dp/1789349869/ref=sr_1_1?crid=11FC0M0GAFA21&amp&keywords=unix+network+programming+2019&amp&qid=1653381349&amp&s=books&amp&sprefix=unix+network+programming+2019%2Cstripbooks-intl-ship%2C356&amp&sr=1-1,4
+Title/Author,Price,Availability,Reviews,Links
+"Operating System Concepts
+By Avi Silberschatz",Rs.2000,In stock,20 Reviews,https://www.amazon.com/Operating-System-Concepts-Abridged-Companion/dp/1119456339
+"UNIX The Textbook
+By Syed Mansoor Sarwar",Rs.5000,In stock,100 Reviews,https://www.google.com/search?q=Unix+the+textbook+by+mansoor&rlz=1C1CHBD_enPK987PK987&oq=unix+the+textbook+by+mansoor&aqs=chrome.0.69i59j69i57j69i59j69i60l5.4419j0j7&sourceid=chrome&ie=UTF-8
+"Taxonomy of IDS
+By Arif Butt",Rs.6900,Not in stock,20 Reviews,https://www.amazon.in/Taxonomy-Ids-Arif-Butt/dp/3639294092
+"Understanding operating systems
+By Ida Flynn",Rs.2700,Not in stock,60 Reviews,https://www.amazon.com/Understanding-Operating-Systems-Ann-McHoes/dp/1305674251
+"Computer Systems
+By Randal E. Bryant",Rs.1700,In stock,25 Reviews,https://www.goodreads.com/book/show/829182.Computer_Systems
+"Linux bible
+Book by Christopher Negus",Rs.1800,Not in stock,21 Reviews,https://www.amazon.com/Linux-Bible-Christopher-Negus/dp/111821854X
+"Advanced Programming in the UNIX Environment
+By W. Stevans",Rs.6000,In stock,40 Reviews,https://www.amazon.com/dp/0321637739?tag=uuid10-20
+"Operating Systems: A Design-oriented Approach
+By Charles Patrick Crowley",Rs.1000,In stock,90 Reviews,https://www.amazon.com/s?k=Operating+Systems%3A+A+Design-oriented+Approach&i=stripbooks-intl-ship&ref=nb_sb_noss
+"Hands-On Network Programming with C
+By Lewis Van Winkle",Rs.1800,In stock,70 Reviews,https://www.amazon.com/Hands-Network-Programming-programming-optimized/dp/1789349869/ref=sr_1_1?crid=11FC0M0GAFA21&&keywords=unix+network+programming+2019&&qid=1653381349&&s=books&&sprefix=unix+network+programming+2019%2Cstripbooks-intl-ship%2C356&&sr=1-1

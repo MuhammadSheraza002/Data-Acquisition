@@ -2,7 +2,7 @@
 
 Welcome to the Data Acquisition Repository Managed by Muhammad Sheraz.This repository has been meticulously crafted to serve as an advanced and comprehensive guide for mastering the intricacies of data acquisition. Every resource within this repository has been created with utmost care to provide you with a profound understanding of data collection techniques.I have developed all the resources available here. My goal is to empower you with the knowledge and skills needed to navigate complex scenarios and excel in various applications.
 
-<div style="display: flex; flex-wrap: wrap;">
+<div width='1000px' style="display: flex; flex-wrap: wrap;">
   <img src="images/acq.PNG" alt="Acq Image" width="48%" style="margin-right: 2%;" />
   <img src="images/scrap.PNG" alt="Scrap Image" width="48%" />
 </div>
